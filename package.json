@@ -1,4 +1,10 @@
+
 {
+    "name": "research-arneverleyen",
+    "description": "tactile interface",
+    "authors": {
+        "name": "Arne Verleyen"
+    },
   "dependencies": {
     "vuepress": "^1.6.0"
   },
